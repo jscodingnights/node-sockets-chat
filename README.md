@@ -17,6 +17,7 @@ Howto: Create a simple chat application using NodeJS and Socket.io.
 * Install dependencies
 
 ``npm install --save express``
+
 ``npm install --save socket.io``
 
 
