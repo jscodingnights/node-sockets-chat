@@ -19,6 +19,7 @@ A coding challenge to create a simple chat application using NodeJS and Socket.i
 4. Install dependencies
 
 ``npm install --save express``
+
 ``npm install --save socket.io``
 
 
